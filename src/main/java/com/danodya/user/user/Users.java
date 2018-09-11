@@ -1,4 +1,4 @@
-package com.danodya.Users.user;
+package com.danodya.user.user;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

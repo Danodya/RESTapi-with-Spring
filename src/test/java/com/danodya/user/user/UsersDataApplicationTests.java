@@ -1,4 +1,4 @@
-package com.danodya.Users.user;
+package com.danodya.user.user;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
