@@ -1,4 +1,4 @@
-package com.danodya.Users.User;
+package com.danodya.Users.user;
 
 import java.util.ArrayList;
 import java.util.List;
